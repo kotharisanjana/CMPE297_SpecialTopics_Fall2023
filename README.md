@@ -6,7 +6,7 @@ a.  Data Science using ChatGPT - https://chat.openai.com/share/b299cc41-48dc-4a5
 b.  Using GPT-Engineer, created a daily journalling application. <br>
 &nbsp; &nbsp;To execute: <br>
 &nbsp; &nbsp; &nbsp; &nbsp; i. Clone repo from https://github.com/AntonOsika/gpt-engineer <br>
-&nbsp; &nbsp; &nbsp; &nbsp; ii. Add above files under projects/example/workspace  <br>
+&nbsp; &nbsp; &nbsp; &nbsp; ii. Add workspace folder and prompt file under projects/example  <br>
 &nbsp; &nbsp; &nbsp; &nbsp; iii. Install required packages for gpt-engineer: sudo apt install build-essential libssl-dev libffi-dev python3-dev <br>
 &nbsp; &nbsp; &nbsp; &nbsp; iv. Install gpt-engineer: make install <br>
 &nbsp; &nbsp; &nbsp; &nbsp; v. Enter OpenAI API Key: export OPENAI_API_KEY=[your_api_key] <br>
