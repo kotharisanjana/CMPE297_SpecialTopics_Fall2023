@@ -12,3 +12,19 @@ b.  Using GPT-Engineer, created a daily journalling application. <br>
 &nbsp; &nbsp; &nbsp; &nbsp; v. Enter OpenAI API Key: export OPENAI_API_KEY=[your_api_key] <br>
 &nbsp; &nbsp; &nbsp; &nbsp; vi. To run: gpt-engineer projects/example <br>
 c.  Demonstration of Github Copilot Chat feature (used cursor.so) - https://drive.google.com/file/d/1jifbCHD8RF3WY3WOyA0ZDFVnsuqvMkz6/view?usp=sharing
+
+### Assignment 2:
+a.  NanoGPT using GPT 4 code interpreter plugin - <br>
+&nbsp; &nbsp; Pytroch - https://colab.research.google.com/drive/1ntYPS8-xnUjIT8nGcnLHMEE4IwMZbutG?usp=sharing <br>
+&nbsp; &nbsp; Tensorflow - https://colab.research.google.com/drive/1h3xkpZDyNJBzo0CPpXLpgXZXpA5qWM_l?usp=sharing <br>
+&nbsp; &nbsp; JAX - https://colab.research.google.com/drive/1pJbbIKBCIta1-X50SojdwKmI322KwPsr?usp=sharing <br>
+&nbsp; &nbsp; Medium article - <br>
+&nbsp; &nbsp; Presentation - <br>
+&nbsp; &nbsp; Code demo - 
+
+
+### Assignment 3:
+a.  Medium article using ChatGPT on best practices for writing prompts - https://medium.com/@sanjana.kothari/mastering-prompt-engineering-by-chatgpt-7d218c23effa <br>
+&nbsp; &nbsp; Application in custom domain - https://chat.openai.com/share/c3324527-1493-4724-b9a0-11f99f2f82ea <br>
+&nbsp; &nbsp; App that crtiques a prompt using GPT-4 as an expert prompt engineer - https://colab.research.google.com/drive/1LUjGvnMIv9rJdjpotabT_OcTCufAkQMD?usp=sharing 
+
