@@ -20,11 +20,17 @@ a.  NanoGPT using GPT 4 code interpreter plugin - <br>
 &nbsp; &nbsp; JAX - https://colab.research.google.com/drive/1pJbbIKBCIta1-X50SojdwKmI322KwPsr?usp=sharing <br>
 &nbsp; &nbsp; Medium article - <br>
 &nbsp; &nbsp; Presentation - <br>
-&nbsp; &nbsp; Code demo - 
+&nbsp; &nbsp; Code demo - <br>
 
 
 ### Assignment 3:
 a.  Medium article using ChatGPT on best practices for writing prompts - https://medium.com/@sanjana.kothari/mastering-prompt-engineering-by-chatgpt-7d218c23effa <br>
 &nbsp; &nbsp; Application in custom domain - https://chat.openai.com/share/c3324527-1493-4724-b9a0-11f99f2f82ea <br>
-&nbsp; &nbsp; App that crtiques a prompt using GPT-4 as an expert prompt engineer - https://colab.research.google.com/drive/1LUjGvnMIv9rJdjpotabT_OcTCufAkQMD?usp=sharing 
+&nbsp; &nbsp; App that crtiques a prompt using GPT-4 as an expert prompt engineer - https://colab.research.google.com/drive/1LUjGvnMIv9rJdjpotabT_OcTCufAkQMD?usp=sharing <br>
+b.  Prompt Generation for meta prompting <br>
+&nbsp; &nbsp; Colab - https://colab.research.google.com/drive/1wY-T2go_Mb4GJ-TXgbXv8aay4JtTOtJn?usp=sharing <br>
+&nbsp; &nbsp; Medium - <br>
+&nbsp; &nbsp; Presentation - <br>
+&nbsp; &nbsp; Demo - <br>
+
 
