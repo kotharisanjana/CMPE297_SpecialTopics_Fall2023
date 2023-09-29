@@ -21,7 +21,8 @@ a.  NanoGPT using GPT 4 code interpreter plugin - <br>
 &nbsp; &nbsp; Medium article - https://medium.com/@sanjana.kothari/nanogpt-in-pytorch-tensorflow-and-jax-e1bb1f78bee0 <br>
 &nbsp; &nbsp; Presentation - <br>
 &nbsp; &nbsp; Code demo - <br>
-
+b. "Textbooks are all you need" casestudy <br>
+&nbsp; &nbsp; Colab - https://colab.research.google.com/drive/1z8CekKb1rgh1IlkqhN-IJqyBo1er5wQR?usp=sharing <br>
 
 ### Assignment 3:
 a.  Medium article using ChatGPT on best practices for writing prompts - https://medium.com/@sanjana.kothari/mastering-prompt-engineering-by-chatgpt-7d218c23effa <br>
