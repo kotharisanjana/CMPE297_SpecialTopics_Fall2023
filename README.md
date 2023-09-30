@@ -19,8 +19,8 @@ a.  NanoGPT using GPT 4 code interpreter plugin - <br>
 &nbsp; &nbsp; Tensorflow - https://colab.research.google.com/drive/1h3xkpZDyNJBzo0CPpXLpgXZXpA5qWM_l?usp=sharing <br>
 &nbsp; &nbsp; JAX - https://colab.research.google.com/drive/1pJbbIKBCIta1-X50SojdwKmI322KwPsr?usp=sharing <br>
 &nbsp; &nbsp; Medium article - https://medium.com/@sanjana.kothari/nanogpt-in-pytorch-tensorflow-and-jax-e1bb1f78bee0 <br>
-&nbsp; &nbsp; Presentation - <br>
-&nbsp; &nbsp; Code demo - <br>
+&nbsp; &nbsp; Presentation - https://docs.google.com/presentation/d/1RIFfKJOSl--nT3ENiPsf6khQBDQ1afNczUvFzt6YdCs/edit?usp=sharing <br>
+&nbsp; &nbsp; Demo - https://drive.google.com/file/d/1u2IgtZ56SYreqvtDhQve9Bb84GnOrhvS/view?usp=sharing <br> 
 b. "Textbooks are all you need" casestudy <br>
 &nbsp; &nbsp; Kaggle notebook - [https://colab.research.google.com/drive/1z8CekKb1rgh1IlkqhN-IJqyBo1er5wQR?usp=sharing](https://www.kaggle.com/code/sanjana08/textbooks-are-all-you-need?scriptVersionId=144723725) <br>
 
