@@ -32,6 +32,9 @@ b.  Prompt Generation for meta prompting <br>
 &nbsp; &nbsp; Colab - https://colab.research.google.com/drive/1wY-T2go_Mb4GJ-TXgbXv8aay4JtTOtJn?usp=sharing <br>
 &nbsp; &nbsp; Medium - https://medium.com/@sanjana.kothari/56ae59edb832 <br>
 &nbsp; &nbsp; Demo - https://drive.google.com/drive/folders/1KnONDIWyXv6RiUsz2IT3fVjNOO_musCE?usp=sharing <br>
-c.  Prompt library using pinecone langchain
+c.  Prompt library using pinecone langchain - It is a flask application that is powered by Pinecone and OpenAI. <br>
+&nbsp; &nbsp; i. To run the app, create a venv and install Flask, openai and pinecone-client <br>
+&nbsp; &nbsp; ii. Acquire Pinecone and OpenAI keys and save them in .env file <br>
+&nbsp; &nbsp; iii. To run the app: flask --app app run
 
 
