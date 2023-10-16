@@ -37,4 +37,12 @@ c.  Prompt library using pinecone langchain - It is a flask application that is 
 &nbsp; &nbsp; ii. Acquire Pinecone and OpenAI keys and save them in .env file <br>
 &nbsp; &nbsp; iii. To run the app: flask --app app run
 
+#### Assignment 4:
+a. <br>
+b. <br>
+c. <br>
+d. OpenAI API examples using PaLM 2 API -  https://colab.research.google.com/drive/19aVn_ZNiywG33IBlYuTdM1ojtElBBhP7?usp=sharing <br>
+e. <br>
+f. <br>
+
 
