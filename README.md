@@ -40,7 +40,7 @@ c.  Prompt library using pinecone langchain - It is a flask application that is 
 #### Assignment 4:
 a. <br>
 b. <br>
-c. <br>
+c. Collection of prompts in 10 different domains <br>
 d. OpenAI API examples using PaLM 2 API -  https://colab.research.google.com/drive/19aVn_ZNiywG33IBlYuTdM1ojtElBBhP7?usp=sharing <br>
 e. <br>
 f. <br>
