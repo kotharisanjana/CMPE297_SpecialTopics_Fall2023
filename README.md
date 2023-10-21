@@ -37,7 +37,7 @@ c.  Prompt library using pinecone langchain - It is a flask application that is 
 &nbsp; &nbsp; ii. Acquire Pinecone and OpenAI keys and save them in .env file <br>
 &nbsp; &nbsp; iii. To run the app: flask --app app run
 
-#### Assignment 4:
+### Assignment 4:
 a. <br>
 b. <br>
 c. Collection of prompts in 10 different domains <br>
@@ -45,4 +45,13 @@ d. OpenAI API examples using PaLM 2 API -  https://colab.research.google.com/dri
 e. <br>
 f. <br>
 
+### Assignment 5:
+a. <br>
+b. <br>
+c. <br>
+d. <br>
+e. Mistral with RAG - https://colab.research.google.com/drive/1oh-OEscuY87r0nzKvoxiJ41HfdC3Fccc?usp=sharing <br>
+f. Mistral with LangChain for simple prompting - https://colab.research.google.com/drive/1OUim-eCqZqjJAfJhZNeD02VDWo-otU56?usp=sharing <br>
+g. <br>
+h. <br>
 
