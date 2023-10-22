@@ -43,7 +43,7 @@ b. Prompt templates along with success and failure cases - https://colab.researc
 c. Collection of prompts in 10 different domains <br>
 d. OpenAI API examples using PaLM 2 API -  https://colab.research.google.com/drive/19aVn_ZNiywG33IBlYuTdM1ojtElBBhP7?usp=sharing <br>
 e. <br>
-f. <br>
+f. System prompts using OpenAI - https://colab.research.google.com/drive/1Cxyyn5rBMvFzzzIynfWnZqsSb70BaoC-?usp=sharing <br>
 
 ### Assignment 5:
 a. <br>
