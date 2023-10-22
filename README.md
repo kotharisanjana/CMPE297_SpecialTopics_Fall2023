@@ -38,7 +38,7 @@ c.  Prompt library using pinecone langchain - It is a flask application that is 
 &nbsp; &nbsp; iii. To run the app: flask --app app run
 
 ### Assignment 4:
-a. <br>
+a. Prompt Engineering Techniques using GPT4 - https://colab.research.google.com/drive/1ZcI3a54UWOSJQ0RtDVagNOUVoNYwsyW-?usp=sharing <br>
 b. Prompt templates along with success and failure cases - https://colab.research.google.com/drive/1I_-PveKSiRZDEdwuDtFWqFF07pVM0Ztm?usp=sharing <br>
 c. Collection of prompts in 10 different domains <br>
 d. OpenAI API examples using PaLM 2 API -  https://colab.research.google.com/drive/19aVn_ZNiywG33IBlYuTdM1ojtElBBhP7?usp=sharing <br>
