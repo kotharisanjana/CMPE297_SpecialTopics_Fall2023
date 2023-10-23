@@ -42,7 +42,7 @@ a. Prompt Engineering Techniques using GPT4 - https://colab.research.google.com/
 b. Prompt templates along with success and failure cases - https://colab.research.google.com/drive/1I_-PveKSiRZDEdwuDtFWqFF07pVM0Ztm?usp=sharing <br>
 c. Collection of prompts in 10 different domains <br>
 d. OpenAI API examples using PaLM 2 API -  https://colab.research.google.com/drive/19aVn_ZNiywG33IBlYuTdM1ojtElBBhP7?usp=sharing <br>
-e. <br>
+e. Function Calling in OpenAI - https://colab.research.google.com/drive/11JabQgolR5EHa4M1puklQff95sfipINN?usp=sharing <br>
 f. System prompts using OpenAI - https://colab.research.google.com/drive/1Cxyyn5rBMvFzzzIynfWnZqsSb70BaoC-?usp=sharing <br>
 
 ### Assignment 5:
