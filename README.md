@@ -53,4 +53,5 @@ d. Finetune Llama 7B using QLora on custom dataset - https://colab.research.goog
 e. Mistral with RAG - https://colab.research.google.com/drive/1oh-OEscuY87r0nzKvoxiJ41HfdC3Fccc?usp=sharing <br>
 f. Mistral with LangChain for simple prompting - https://colab.research.google.com/drive/1OUim-eCqZqjJAfJhZNeD02VDWo-otU56?usp=sharing <br>
 g. LLM quantization - https://colab.research.google.com/drive/1-S7nMCnseF5s5o5Vyk8dBMl28vBffArl?usp=sharing <br>
+Demo - https://drive.google.com/drive/folders/10lNF2FnCDRmqGh-Hj8q5jCwrtQCiDAvE?usp=sharing <br>
 
