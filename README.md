@@ -49,7 +49,7 @@ f. System prompts using OpenAI - https://colab.research.google.com/drive/1Cxyyn5
 a. <br>
 b. <br>
 c. <br>
-d. <br>
+d. Finetune Llama using QLora on custom dataset - https://colab.research.google.com/drive/1hm_G-I8kQJGurCEnlQUcG20ZaqkIzOeX?usp=sharing <br>
 e. Mistral with RAG - https://colab.research.google.com/drive/1oh-OEscuY87r0nzKvoxiJ41HfdC3Fccc?usp=sharing <br>
 f. Mistral with LangChain for simple prompting - https://colab.research.google.com/drive/1OUim-eCqZqjJAfJhZNeD02VDWo-otU56?usp=sharing <br>
 g. LLM quantization - https://colab.research.google.com/drive/1-S7nMCnseF5s5o5Vyk8dBMl28vBffArl?usp=sharing <br>
