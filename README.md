@@ -46,7 +46,7 @@ e. Function Calling in OpenAI - https://colab.research.google.com/drive/11JabQgo
 f. System prompts using OpenAI - https://colab.research.google.com/drive/1Cxyyn5rBMvFzzzIynfWnZqsSb70BaoC-?usp=sharing <br>
 
 ### Assignment 5:
-a. <br>
+a. Simple agent connected to backend tools <br>
 b. <br>
 c. Finetune Llama 3B using Lora - https://colab.research.google.com/drive/1od7Q931caD76ypZxFDBQ9fONtXeObYMT?usp=sharing <br>
 d. Finetune Llama 7B using QLora on custom dataset - https://colab.research.google.com/drive/1hm_G-I8kQJGurCEnlQUcG20ZaqkIzOeX?usp=sharing <br>
