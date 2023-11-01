@@ -47,7 +47,7 @@ f. System prompts using OpenAI - https://colab.research.google.com/drive/1Cxyyn5
 
 ### Assignment 5:
 a. Simple agent connected to backend tools <br>
-b. <br>
+b. Auto agent - Code taken from https://github.com/Link-AGI/AutoAgents <br>
 c. Finetune Llama 3B using Lora - https://colab.research.google.com/drive/1od7Q931caD76ypZxFDBQ9fONtXeObYMT?usp=sharing <br>
 d. Finetune Llama 7B using QLora on custom dataset - https://colab.research.google.com/drive/1hm_G-I8kQJGurCEnlQUcG20ZaqkIzOeX?usp=sharing <br>
 e. Mistral with RAG - https://colab.research.google.com/drive/1oh-OEscuY87r0nzKvoxiJ41HfdC3Fccc?usp=sharing <br>
