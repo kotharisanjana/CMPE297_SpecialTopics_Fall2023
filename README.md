@@ -55,3 +55,10 @@ f. Mistral with LangChain for simple prompting - https://colab.research.google.c
 g. LLM quantization - https://colab.research.google.com/drive/1-S7nMCnseF5s5o5Vyk8dBMl28vBffArl?usp=sharing <br>
 Demo - https://drive.google.com/drive/folders/10lNF2FnCDRmqGh-Hj8q5jCwrtQCiDAvE?usp=sharing <br>
 
+### Assignment 6:
+Research Paper - "A Survey on Model Compression for Large Language Models" https://arxiv.org/pdf/2308.07633.pdf <br> 
+Medium article - https://medium.com/@sanjana.kothari/a-survey-on-model-compression-for-large-language-models-eda1e268e702 <br> 
+Presentation - https://www.slideshare.net/SanjanaRajeshKothari/paper-presentation-on-llm-compression <br>
+Demo - https://drive.google.com/drive/folders/1LScBjbyBj4zjapAv5ZDsJWSjZqOhdxUn?usp=sharing
+
+
