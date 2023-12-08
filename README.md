@@ -56,7 +56,7 @@ g. LLM quantization - https://colab.research.google.com/drive/1-S7nMCnseF5s5o5Vy
 Demo - https://drive.google.com/drive/folders/10lNF2FnCDRmqGh-Hj8q5jCwrtQCiDAvE?usp=sharing <br>
 
 ### Assignment 6:
-a. End-2-end generative AI application using Vercel - https://github.com/kotharisanjana/CMPE297_TwitterBioGenerator_Vercel/tree/main
-b. Chat copilot with semnatic kernel 
-&nbsp; &nbsp; Medium article - https://medium.com/@sanjana.kothari/chat-copilot-with-semantic-kernel-cc0ac1bfa09f
+a. End-2-end generative AI application using Vercel - https://github.com/kotharisanjana/CMPE297_TwitterBioGenerator_Vercel/tree/main <br>
+b. Chat copilot with semnatic kernel <br>
+&nbsp; &nbsp; Medium article - https://medium.com/@sanjana.kothari/chat-copilot-with-semantic-kernel-cc0ac1bfa09f <br>
 &nbsp; &nbsp; Demo - https://drive.google.com/file/d/1qjnJ9Vhvj7uCLOdRXHxtWrL7JWHHOeHJ/view?usp=sharing
